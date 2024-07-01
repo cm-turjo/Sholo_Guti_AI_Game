@@ -1,0 +1,23 @@
+import pygame
+
+
+WIDTH , HEIGHT = 400, 770
+x=WIDTH//2
+y=HEIGHT//2
+COLS ,ROWS = 9,5
+SQUARE_SIZE = WIDTH//ROWS
+
+#rgb
+RED = (255,0,0)
+WHITE = (255,255,255)
+BLACK = (0,0,0)
+BLUE = (0, 0, 255)
+GREEN = (0,255,0)
+GREY = (128,128,128)
+YELLOW =(255, 255, 204)#pastel yellow
+P_GREEN =(2, 131, 164)#pale_green
+
+PADDING = 30
+OUTLINE = 2
+
+RADIUS = 10 #SQUARE_SIZE//2-PADDING
