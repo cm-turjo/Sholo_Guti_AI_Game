@@ -50,20 +50,25 @@ This game will run only x64 based Windows powered computer. Follow the steps
 
 - Run the exe file 
 - Select accept and go next
+
 ![1](https://github.com/cm-turjo/Sholo_Guti_AI_Game/assets/67799082/c1ddbd56-7dba-4a2d-b0c0-65f9fae52869)
 
 - Choose the destination directory
+
 ![2](https://github.com/cm-turjo/Sholo_Guti_AI_Game/assets/67799082/06567c98-27a9-4b56-bc52-13dcd935cbdb)
 
 - Select whether to choose desktop icon or not
+
 ![3](https://github.com/cm-turjo/Sholo_Guti_AI_Game/assets/67799082/f7cbcc55-48a9-4cb3-bb84-97edc9c74344)
 
 - Select next and wait for couple of seconds
+
 ![4](https://github.com/cm-turjo/Sholo_Guti_AI_Game/assets/67799082/9dd2a001-6bbf-491c-b3d1-f0121a08f9a9)
 
 - This game will take 33 MB space in your memory
 - Launch the game
--![5](https://github.com/cm-turjo/Sholo_Guti_AI_Game/assets/67799082/41b0eb1f-1923-4d71-bb25-9fb75ac3da7a)
+
+![5](https://github.com/cm-turjo/Sholo_Guti_AI_Game/assets/67799082/41b0eb1f-1923-4d71-bb25-9fb75ac3da7a)
 
 
 ## Control Keys
@@ -74,21 +79,27 @@ This game will run only x64 based Windows powered computer. Follow the steps
 ## Game Screenshots
 
 - Splashscreen
+
 ![5x](https://github.com/cm-turjo/Sholo_Guti_AI_Game/assets/67799082/fa225d9f-d161-4fdf-b1a0-5bfa029e2928)
 
 - Welcome Screen
+
 ![6](https://github.com/cm-turjo/Sholo_Guti_AI_Game/assets/67799082/bea4bab6-b109-4ffd-8f24-41e0d011c992)
 
 - Select Difficulty Level
+
 ![7](https://github.com/cm-turjo/Sholo_Guti_AI_Game/assets/67799082/fb37952a-9ce5-4725-b17a-cea1bd0f8078)
 
 - Game Interface
+
 ![Screenshot 2024-07-01 093324](https://github.com/cm-turjo/Sholo_Guti_AI_Game/assets/67799082/ca17519b-14df-4fe5-aa89-0e0361a2e82a)
 
 - Move Highligher
+
 ![8](https://github.com/cm-turjo/Sholo_Guti_AI_Game/assets/67799082/d6001e8e-26b3-4af5-947a-a6d670ffa738)
 
 - Result
+
 ![4](https://github.com/cm-turjo/Sholo_Guti_AI_Game/assets/67799082/e3fc6587-f087-4366-8264-49874f654680)
 
 
